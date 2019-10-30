@@ -1,0 +1,7 @@
+To test:
+- unzip the team-project-2188 folder
+- use 'mvn compile exec:java' to run the applicaiton in the command line
+- open one browser window and one private window
+- navigate to localhost:4567 on each window
+- sign into the WebCheckers App in each window with a different username. 
+- begin testing 
